@@ -1,5 +1,9 @@
+## 💼 Internship Project
+* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - [Brief description] — *Built during internship*
+
+---
+
 ## 🌐 Full-Stack Web Apps
-* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - *(Internship Project)* - [Brief description of what it does]
 * [Expense Tracker](https://github.com/bilawalmalik07/expense-tracker) - Flask & PostgreSQL personal finance tool.
 * [Bank System](https://github.com/bilawalmalik07/bank) - Web-based banking interface with secure logic.
 

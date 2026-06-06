@@ -1,5 +1,5 @@
-## 💼 Internship Project
-* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - [Brief description] — Built during Internship
+## 💼 Professional Work
+* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - [Brief description] — *Developer @ [ChiEAC]
 
 ---
 

@@ -1,5 +1,5 @@
 ## 💼 Professional Work
-* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - [Brief description] — *Developer @ [ChiEAC]
+* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - [Brief description] — Software Developer @ [ChiEAC]
 
 ---
 

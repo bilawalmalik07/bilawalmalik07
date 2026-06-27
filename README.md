@@ -13,4 +13,4 @@
 ## 🐍 Raw Python Projects
 * [File Organizer](https://github.com/bilawalmalik07/file-organizer) - Automation script for desktop management.
 * [Blackjack](https://github.com/bilawalmalik07/blackjack) - Logic-based card game built in Python.
-* [Parking System](https://github.com/bilawalmalik07/parking) - CLI-based management tool.
+* [Parking System](https://github.com/bilawalmalik07/parking) - CLI-based parking system.

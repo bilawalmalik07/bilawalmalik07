@@ -1,5 +1,6 @@
 ## 💼 Professional Work
-* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - [Brief description] — Software Developer @ [ChiEAC]
+* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - Bilingual AI-powered document platform for immigrant families — Software Developer @ Chicago Education Advocacy Cooperative
+* [FutureFinance](https://github.com/bilawalmalik07/future-finance-simulator) - Platform where students can experience real job salaries — Software Developer @ Chicago Education Advocacy Cooperative
 
 ---
 

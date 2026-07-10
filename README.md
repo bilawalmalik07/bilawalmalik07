@@ -12,5 +12,6 @@
 
 ## 📂 Other Projects
 * [File Organizer](https://github.com/bilawalmalik07/file-organizer) - Automation script for desktop management.
-* [Blackjack](https://github.com/bilawalmalik07/blackjack) - Logic-based card game built in Python.
+* [Chatbot](https://github.com/bilawalmalik07/chatbot) - Simple chatbot for day to day conversations.
 * [Parking System](https://github.com/bilawalmalik07/parking) - CLI-based parking system.
+* [Blackjack](https://github.com/bilawalmalik07/blackjack) - Logic-based card game built in Python.

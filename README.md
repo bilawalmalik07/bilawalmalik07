@@ -1,5 +1,5 @@
 ## 💼 Professional Work
-* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - Bilingual AI-powered document platform for immigrant families — Software Developer Intern @ Chicago Education Advocacy Cooperative
+* [ResourceBridge](https://github.com/bilawalmalik07/Resourcebridge) - Bilingual AI-powered document platform for immigrant families — Software Developer @ Chicago Education Advocacy Cooperative
 
 
 ---

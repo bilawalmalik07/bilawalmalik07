@@ -4,15 +4,13 @@
 
 ---
 
-## 🌐 Full-Stack Web Apps
-* [Expense Tracker](https://github.com/bilawalmalik07/expense-tracker) - Flask & PostgreSQL personal finance tool.
-* [Bank System](https://github.com/bilawalmalik07/bank) - Web-based banking interface with secure logic.
-
+## 🌐 Web Apps Personal
+* [Job Sync Ai](https://jobsync-xeln.onrender.com/) - Analyse Resume and returns match scores and
+per-role skill-gap breakdowns.
 
 ---
 
 ## 📂 Other Projects
+* [Expense Tracker](https://github.com/bilawalmalik07/expense-tracker) - personal finance tool.
+* [Bank System](https://github.com/bilawalmalik07/bank) - Web-based banking interface with secure logic.
 * [File Organizer](https://github.com/bilawalmalik07/file-organizer) - Automation script for desktop management.
-* [Chatbot](https://github.com/bilawalmalik07/chatbot) - Simple chatbot for day to day conversations.
-* [Parking System](https://github.com/bilawalmalik07/parking) - CLI-based parking system.
-* [Blackjack](https://github.com/bilawalmalik07/blackjack) - Logic-based card game built in Python.
